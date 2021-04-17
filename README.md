@@ -1,4 +1,4 @@
 # vaccine-finder-nodejs
 
-# supports scraping walmart appointments
-# writes to firebase
+- supports scraping walmart appointments
+- writes to firebase
